@@ -161,3 +161,22 @@ Kaggle for the Global Climate Change dataset
 Databricks Community Edition for the platform
 
 ---
+## 📄 License
+
+This project is open source and available under the MIT License.
+## 👤 Author
+
+---
+
+**Abhay Shinde**  
+Computer Engineering Student | Data & AI Enthusiast
+
+---
+## 🤝 Contributing
+
+Contributions are welcome! Please feel free to:
+
+- Report bugs
+- Suggest features
+- Submit pull requests
+- Improve documentation
