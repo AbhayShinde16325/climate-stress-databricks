@@ -157,6 +157,7 @@ This demonstrates a complete **Database ↔ AI ↔ Database** pipeline.
 🙌 Acknowledgements
 
 Kaggle for the Global Climate Change dataset
+
 Databricks Community Edition for the platform
 
 ---
